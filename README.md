@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>🏆 Github Profile Trophy</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=SliverHorn&column=7"/>
+
+---
+
+- 🔭 Gopher
+- 🌱 Open source fancier
+- 🔥 gin-vue-admin https://www.gin-vue-admin.com/
+- 🏠 Homepage at https://blog.sliverhorn.com/
+
+---
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=SliverHorn&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SliverHorn&layout=compact" />
+</div>
+
