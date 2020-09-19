@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🔭 Gopher
 - 🌱 Open source fancier
 - 🔥 gin-vue-admin https://www.gin-vue-admin.com/
+- 🔥 gf-vue-admin https://github.com/flipped-aurora/gf-vue-admin
 - 🏠 Homepage at https://blog.sliverhorn.com/
 
 ---
