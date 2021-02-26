@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Open source fancier
 - 🔥 gin-vue-admin https://www.gin-vue-admin.com/
 - 🔥 gf-vue-admin https://www.gf-vue-admin.com/
-- 🏠 Homepage at https://www.sliverhorn.com/
+- 🏠 Homepage at http://www.sliverhorn.com/
 
 ---
 
