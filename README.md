@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+  <img src="https://intro.rustbridge.com/img/ferris.gif" width="300">
+</p>
+
 <!--
 **SliverHorn/SliverHorn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,7 +29,7 @@ Here are some ideas to get you started:
 - 🌱 Open source fancier
 - 🔥 gin-vue-admin https://www.gin-vue-admin.com/
 - 🔥 gf-vue-admin https://www.gf-vue-admin.com/
-- 🏠 Homepage at http://www.sliverhorn.com/
+- 🏠 Homepage at https://www.sliverhorn.com/
 
 ---
 
